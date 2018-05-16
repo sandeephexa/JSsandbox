@@ -1,0 +1,20 @@
+[
+    {
+        "id" : 1,
+        "name" : "john doe",
+        "company" : "123 designs",
+        "phone" : 7894561330
+    },
+    {
+        "id" : 1,
+        "name" : "mike slater",
+        "company" : "marry designs",
+        "phone" : 6394561398
+    },
+    {
+        "id" : 1,
+        "name" : "neol sean",
+        "company" : "herpa tools",
+        "phone" : 8894561367
+    }
+]
